@@ -1,4 +1,4 @@
-# Using Coding Agents to Upgrade Major Library Versions in Hours, Not Weeks
+# How I offloaded a major library version upgrade to three coding agents
 
 ### September 3rd, 2024 (4 min read)
 
